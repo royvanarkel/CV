@@ -1,0 +1,25 @@
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/footer.css");
+@import url("components/tabs.css");
+
+body {
+  background-color: #9DC5BB;
+}
+
+h1,h2,h3 {
+font-family: "Raleway";
+}
+
+p {
+font-family: "open sans"
+}
+
+
+img.profile {
+  height: 300px;
+  width: 300px;
+  padding: 3px;
+  background-color: white;
+  box-shadow: 1px 1px 1px black;
+}

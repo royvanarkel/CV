@@ -1,0 +1,26 @@
+
+.card
+{
+  background-color: #DEE5E5;
+  border-radius: 10px;
+  margin: 0 10px;
+}
+.card-title {
+  background-color: #5E807F;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+  margin: 0;
+
+}
+
+.card h2 {
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+  padding: 5px;
+  text-align: center;
+}
+
+.card p {
+  margin-left: 10px;
+}

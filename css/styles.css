@@ -17,9 +17,11 @@ font-family: "open sans"
 
 
 img.profile {
-  height: 300px;
-  width: 300px;
+  height: 100%;
+  width: 100%;
+  max-width: 300px;
   padding: 3px;
   background-color: white;
   box-shadow: 1px 1px 1px black;
+  align-content: center;
 }

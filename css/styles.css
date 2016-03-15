@@ -4,7 +4,7 @@
 @import url("components/tabs.css");
 
 body {
-  background-color: #9DC5BB;
+  /*background-color: #9DC5BB;*/
 }
 
 h1,h2,h3 {
@@ -24,4 +24,15 @@ img.profile {
   background-color: white;
   box-shadow: 1px 1px 1px black;
   align-content: center;
+}
+
+#personal p {
+text-transform: uppercase;
+font-weight: bold;
+letter-spacing: 3px;
+}
+
+#personal span {
+opacity: 0.4
+
 }

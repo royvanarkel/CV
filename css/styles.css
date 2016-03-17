@@ -20,9 +20,7 @@ img.profile {
   height: 100%;
   width: 100%;
   max-width: 300px;
-  padding: 3px;
-  background-color: white;
-  box-shadow: 1px 1px 1px black;
+  border-radius: 5px;
   align-content: center;
 }
 

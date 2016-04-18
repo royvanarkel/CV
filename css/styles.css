@@ -24,13 +24,13 @@ img.profile {
   align-content: center;
 }
 
-#personal p {
+#personal p, #contact p {
 text-transform: uppercase;
 font-weight: bold;
 letter-spacing: 3px;
 }
 
-#personal span {
+#personal span, #contact span {
 opacity: 0.4
 
 }

@@ -4,7 +4,7 @@
 @import url("components/tabs.css");
 
 body {
-  background-color: #9DC5BB;
+  /*background-color: #9DC5BB;*/
 }
 
 h1,h2,h3 {
@@ -17,9 +17,20 @@ font-family: "open sans"
 
 
 img.profile {
-  height: 300px;
-  width: 300px;
-  padding: 3px;
-  background-color: white;
-  box-shadow: 1px 1px 1px black;
+  height: 100%;
+  width: 100%;
+  max-width: 300px;
+  border-radius: 5px;
+  align-content: center;
+}
+
+#personal p, #contact p {
+text-transform: uppercase;
+font-weight: bold;
+letter-spacing: 3px;
+}
+
+#personal span, #contact span {
+opacity: 0.4
+
 }

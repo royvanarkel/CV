@@ -2,6 +2,7 @@
   color: white;
   text-align: center;
   height: 100vh;
+  min-height: 500px;
   background-size: cover !important;
   display: flex;
   align-items: center;
@@ -24,6 +25,8 @@
 .banner-arrow-bottom {
   position: absolute;
   bottom: 50px;
+  left: 0;
+  right: 0;
 }
 
 .banner i {
